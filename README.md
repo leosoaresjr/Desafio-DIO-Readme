@@ -1,2 +1,18 @@
-# Desafio-DIO-Readme
-Repositório criado como parte do desafio da Digital Innovation One (DIO) para praticar Git, GitHub e formatação com Markdown. O objetivo é aplicar os conceitos aprendidos, colaborar com outros usuários, e experimentar o fluxo completo de desenvolvimento com GitHub.dev, Issues, Commits e Pull Requests.
+# Desafio DIO - GitHub & Markdown
+
+Este repositório foi criado como parte de um desafio da DIO para praticar Git, GitHub e Markdown.
+
+## 📋 Instruções
+
+- Criar conta no GitHub ✅
+- Criar repositório público ✅
+- Editar README.md usando GitHub.dev ✅
+- Adicionar colaboradores
+- Criar e responder Issues
+- Criar Pull Requests
+
+## 🛠 Tecnologias usadas
+
+- Git
+- GitHub
+- Markdown
